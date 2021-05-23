@@ -32,7 +32,7 @@ class _ResultsState extends State<Results> {
               height: 8,
             ),
             Text(
-              "You answered ${widget.correct} answers correctly and ${widget.incorrect} answers incorrectly",
+              "You answered ${widget.correct} answers correctly! and ${widget.incorrect} answers incorrectly",
               style: TextStyle(fontSize: 15, color: Colors.grey),
               textAlign: TextAlign.center,
             )
