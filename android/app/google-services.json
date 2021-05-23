@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186728014074",
+    "project_id": "iotquizzproject",
+    "storage_bucket": "iotquizzproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186728014074:android:45ff1591bed0d01a61a943",
+        "android_client_info": {
+          "package_name": "com.example.quizz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186728014074-l2aq4gb4lfi9i58vh23ho75t0lk8c86h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiXOhgiDJ66RfQgZgZ5bTREpckDkLhTF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186728014074-l2aq4gb4lfi9i58vh23ho75t0lk8c86h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
